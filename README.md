@@ -131,6 +131,6 @@
 
 ---
 
-🔗 **[Configure a DR Solution with an Oracle Autonomous Database](https://docs.oracle.com/en/solutions/adb-refreshable-clones-dr/index.html#GUID-D31D13F9-F2C3-4BAB-B652-DAB5F5C25A4B)**
+🔗 [Configure a DR Solution with an Oracle Autonomous Database](https://docs.oracle.com/en/solutions/adb-refreshable-clones-dr/index.html#GUID-D31D13F9-F2C3-4BAB-B652-DAB5F5C25A4B)
 
 🔗 [Fast-Ingest with high-frequency inserts in IoT](https://docs.oracle.com/en/database/oracle/oracle-database/21/tgdba/tuning-system-global-area.html#GUID-CFADC9EA-2E2F-4EBB-BA2C-3663291DCC25)
